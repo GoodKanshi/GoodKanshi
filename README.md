@@ -1,5 +1,8 @@
 ![logo](https://github.com/GoodKanshi/GoodKanshi/blob/main/Banner%20git%20(1).png)
-<h1 align="center">Hi 👋, I'm Kanshichandu😊</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36B2F7&random=false&width=435&lines=Hey+there+it's+Kanshi.++;Welcome+to+My+Profile" alt="Typing SVG" /></a>
+<br>
+<hr>
+</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 <br>
 <img align ="left" alt="coding" width ="270" src =https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
