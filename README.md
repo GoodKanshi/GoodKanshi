@@ -9,7 +9,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goodkanshi&label=Profile%20views&color=0e75b6&style=flat" alt="goodkanshi" style  /> </p>
 
-<p align="left">- 🌱 I’m currently learning **HTML CSS JAVASCRIPT ADOBE ILLUSTRATOR**</p>
+## What I'm Doing
+
+<p align="left">- 🌱Learning Front-end & more</p>
 
 <p align="left">- 📫 How to reach me **<a href ="https://www.linkedin.com/in/kanshichandu-nale-b4a814253/" style = "text-decorattion🔗;">Linked In</a>**</p>
 
