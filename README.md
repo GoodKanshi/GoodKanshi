@@ -8,7 +8,7 @@
 
 <p align="left">- 🌱 I’m currently learning **HTML CSS JAVASCRIPT ADOBE ILLUSTRATOR**</p>
 
-<p align="left">- 📫 How to reach me **<a href ="kanshinale332@gmail.com">Email</a>**</p>
+<p align="left">- 📫 How to reach me **<a href ="https://www.linkedin.com/in/kanshichandu-nale-b4a814253/" style = "text-decorattion🔗;">Linked In</a>**</p>
 
 <p align="left">- ⚡ Fun fact **I love coding.**</p>
 <hr>
