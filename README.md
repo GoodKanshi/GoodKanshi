@@ -17,7 +17,7 @@
 
 <p align="left">- ⚡ Fun fact **I love coding.**</p>
 <hr>
-<h3 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=34F7F5&background=5DFF4F00&random=false&width=435&height=60&lines=Connect+with+me%3A" alt="Typing SVG" /></a></h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kanshichandu nale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanshichandu nale" height="30" width="40" /></a>
 <a href="https://kaggle.com/kanshichandu nale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kanshichandu nale" height="30" width="40" /></a>
